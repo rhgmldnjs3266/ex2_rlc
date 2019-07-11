@@ -1,0 +1,15 @@
+\t (00:02:28) allegro 17.2 S038 Windows SPB 64-bit Edition
+\t (00:02:28)     Journal start - Thu Jul 11 08:53:17 2019
+\t (00:02:28)         Host=USER-PC User=user Pid=6184 CPUs=4
+\t (00:02:28) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:02:28) 
+   (00:02:29) Loading axlcore.cxt 
+\t (00:02:29) Opening existing design...
+\i (00:02:31) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged BVNCB
+\d (00:02:31) Design opened: C:/Users/user/Desktop/EXEX/allegro/BVNCB.brd
+\i (00:02:32) trapsize 686
+\i (00:02:33) trapsize 706
+\i (00:02:33) trapsize 686
+\i (00:02:34) trapsize 718
+\i (00:02:36) exit 
+\t (00:02:36)     Journal end - Thu Jul 11 08:53:25 2019
